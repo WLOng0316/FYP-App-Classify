@@ -1,20 +1,20 @@
-apple
-banana
-beef rendang
-burger
-cucur udang
-currypuff
-fish and chips
-fried chicken
-fried noodles
-fried rice
-guava
-kaya toast
-kuih lapis
-laksa
-milk
-nasi lemak
-pisang goreng
-roti canai
-teh tarik
-tomato
+Apple
+Banana
+Beef Rendang
+Burger
+Cucur Udang
+Currypuff
+Fish and Chips
+Fried Chicken
+Fried Noodles
+Fried Rice
+Guava
+Kaya Toast
+Kuih Lapis
+Laksa
+Milk
+Nasi Lemak
+Pisang Goreng
+Roti Canai
+Teh Tarik
+Tomato
