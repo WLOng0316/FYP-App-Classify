@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="serving_sizes">
+        <item>1 serving</item>
+        <item>2 servings</item>
+        <item>3 servings</item>
+        <item>4 servings</item>
+        <item>5 servings</item>
+    </string-array>
+</resources>

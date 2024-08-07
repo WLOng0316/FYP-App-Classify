@@ -21,7 +21,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food Image Classification"
+                android:text="Food Image Recognition"
                 android:id="@+id/title"
                 android:textSize="30sp"
                 android:textAlignment="center"
@@ -66,6 +66,8 @@
                 android:textSize="20sp"
                 android:textAlignment="center"
                 android:layout_marginTop="20dp"/>
+
+
 
             <TableLayout
                 android:id="@+id/nutrition_table"
